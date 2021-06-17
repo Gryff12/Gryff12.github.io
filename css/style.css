@@ -191,7 +191,8 @@ h3 {
 	}
 
 	.service + .service{
-		margin-left: 3em;
+		margin-left: 1.5em;
+		margon-right: 1.5em;
 	}
 }
 
